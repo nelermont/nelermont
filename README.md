@@ -1,4 +1,8 @@
-https://www.codewars.com/users/nelermont2/badges/micro
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dmitry</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">IOS Developer from Russia 🇷🇺</h3>
+<a href="https://www.codewars.com/users/nelermont2">Codewars</a>
+
 
 <!---
 nelermont/nelermont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
